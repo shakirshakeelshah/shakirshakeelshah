@@ -1,7 +1,7 @@
 -  Hi, Stranger. Myself Shakir Shakeel Shah.
--  I'm currently enrolled at Central University of kashmir persuing Btech CSE.
+-  I'm am undergrad BTech CSE student at Central University of kashmir.
 -  I’m interested in coding, creating and cricket.
--  I’m currently learning full-stack development.
+-  I’m currently focused onto full-stack development.
 -  I'm interested in AI/ML.
 -  I’m looking to collaborate on web dev projects.
 -  You can mail me at shkr.sh@icloud.com
