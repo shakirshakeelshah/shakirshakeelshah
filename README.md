@@ -1,5 +1,5 @@
 -  Hi, Stranger. Myself Shakir Shakeel Shah.
--  I'm am undergrad BTech CSE student at Central University of kashmir.
+-  I'm an undergrad BTech CSE student at Central University of kashmir.
 -  I’m interested in coding, creating and cricket.
 -  I’m currently focused onto full-stack development.
 -  I'm interested in AI/ML.
