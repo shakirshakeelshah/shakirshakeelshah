@@ -39,7 +39,7 @@
 
 <div align="center">
 <a href="https://github.com/shakirshakeelshah">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakirshakeelshah&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakirshakeelshah&theme=github-dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakirshakeelshah&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakirshakeelshah&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakirshakeelshah&theme=dark" height="180em" />
