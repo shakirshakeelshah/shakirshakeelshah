@@ -18,7 +18,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shakirshakeelshah&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shakirshakeelshah&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
