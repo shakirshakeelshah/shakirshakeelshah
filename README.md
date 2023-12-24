@@ -24,13 +24,6 @@
 
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-
-
-
-
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -40,13 +33,10 @@
 
 ## 📊 GitHub Stats:
 
-
-
-
 ![](https://github-readme-stats.vercel.app/api?username=shakirshakeelshah&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shakirshakeelshah&theme=github_dark&hide_border=true)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=shakirshakeelshah&limit=5&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakirshakeelshah&theme=github_dark&hide_border=true&include_all_commits=true&count)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakirshakeelshah&theme=github_dark&hide_border=true&include_all_commits=true&count)<br>
+
 <div align="center">
 <a href="https://github.com/shakirshakeelshah">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakirshakeelshah&theme=github_dark" height="180em" />
