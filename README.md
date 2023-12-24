@@ -15,20 +15,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 ---
-## Statistics:
-
-
-
-
-
-
-
----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shakirshakeelshah&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-
 ---
 ## 📊 GitHub Stats:
 <div align="center">
