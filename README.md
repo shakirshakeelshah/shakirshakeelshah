@@ -52,8 +52,8 @@
 
 ###
 
-<div align="center">
-<h2>Activity Graph:</h2>
+<div>
+<h2 align="left">>Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shakirshakeelshah&theme=github-dark"/>
 </div>
 
