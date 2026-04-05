@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">CODING || CREATING || CRICKET</h4>
+<h4 align="center">CODE || CREATE || CRICKET</h4>
 
 ###
 
